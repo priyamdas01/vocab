@@ -71,6 +71,79 @@
         {"alacrity":{
             "meaning":"liveliness and eagerness",
             "sentence":"She accepted the invitation with great alacrity."
+        }},
+        {"allegiance":{
+            "meaning":"the act of binding yourself to a course of action",
+            "sentence":"he owes allegiance to them for all the help they gave him."
+        }},
+        {"amalgamate":{
+            "meaning":"bring or combine together or with something else",
+            "sentence":"The governor has decided to amalgamate the schools."
+        }},{"ambivalent":{
+            "meaning":"uncertain or unable to decide what course to follow",
+            "sentence":"some loved her, some hated her, and a few were ambivalent about her."
+        }},{"ambrosial":{
+            "meaning":"worthy of the gods",
+            "sentence":"her jam ambrosial, syrupy with honeyed fruit, and scented with elderflower."
+        }},{"analgesic":{
+            "meaning":"capable of relieving pain",
+            "sentence":"The lotion contains a mild analgesic to soothe strings and bites."
+        }},{"ameliorate":{
+            "meaning":"make better.",
+            "sentence":"the reform did much to ameliorate living standards."
+        }},
+        {"amenable":{
+            "meaning":"disposed or willing to comply",
+            "sentence":"i think you will find us amenable to reason."
+        }},
+        {"anachronism":{
+            "meaning":"locating something at a time when it could not have existed.",
+            "sentence":"the wigs and robes are clearly an anachronism in the legal system."
+        }},
+        {"annul":{
+            "meaning":"cancel officially",
+            "sentence":"his second marriage was annulled because he never divorced his first wife."
+        }},
+        {"annex":{
+            "meaning":"attach to",
+            "sentence":"The annex to the report."
+        }},
+        //-------------------
+        {"adulterate":{
+            "meaning":"make impure by adding a foreign or inferior substance",
+            "sentence":"This group of people adulterated the fun for the rest of us."
+        }},
+        {"adumbrate":{
+            "meaning":"describe roughly or give the main points or summary of.",
+            "sentence":"The project's objectives were adumbrated in the report on page 2."
+        }},{"adverse":{
+            "meaning":"in an opposite direction",
+            "sentence":"The vaccine can cause an adverse reaction."
+        }},{"aesthete":{
+            "meaning":"one who professes great sensitivity to the beauty of art.",
+            "sentence":"and this is the condition of the decadent, of the aesthete, of the free-lover."
+        }},{"affable":{
+            "meaning":"diffusing warmth and friendliness",
+            "sentence":"I found her to be very affable."
+        }},{"affliction":{
+            "meaning":"a cause of great suffering and distress.",
+            "sentence":"they described the great aflkiction caused by the loss of their son."
+        }},
+        {"aggrandize":{
+            "meaning":"embellish, increase the scope, power, or importance of",
+            "sentence":"she has used that skill to protect her friend and aggradize herself."
+        }},
+        {"agitate":{
+            "meaning":"move or cause to move back and forth",
+            "sentence":"if I talk about the problem with him, it agitates him even more."
+        }},
+        {"agog":{
+            "meaning":"highly excited",
+            "sentence":"I am all agog to see him."
+        }},
+        {"alacrity":{
+            "meaning":"liveliness and eagerness",
+            "sentence":"She accepted the invitation with great alacrity."
         }}
 
 
