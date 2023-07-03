@@ -1,0 +1,78 @@
+{
+    "vocabulary":[
+        {"aberrant":{
+            "meaning":"markedly different from an accepted form",
+            "sentence":"In both groups, over-eating was associated with abberant behaviors."
+        }},
+        {"abeyance":{
+            "meaning":"temporary cessation or suspension",
+            "sentence":"The law is currently in abeyance."
+        }},{"abscond":{
+            "meaning":"run away, often something or somebody along",
+            "sentence":"He absconded from the ship on the day it sailed."
+        }},{"abstemious":{
+            "meaning":"marked by temperance in indulgence",
+            "sentence":"We have been extraordinarily astemious, teetotalers, and non-smokers."
+        }},{"abstruse":{
+            "meaning":"difficult to understand",
+            "sentence":"The theory was abstuse to begin with."
+        }},{"absurd":{
+            "meaning":"inconsistent with reason or logic or common sense.",
+            "sentence":"so you think I am a spy? How absurd!"
+        }},
+        {"abyss":{
+            "meaning":"a bottomless gulf or pit",
+            "sentence":"a rope led down into the dark abyss."
+        }},
+        {"acquiesce":{
+            "meaning":"agree or express agreement",
+            "sentence":"While I did not want to go to the show with Laura, her constant badgering caused me to acquiesce."
+        }},
+        {"admonish":{
+            "meaning":"scold or reprimand, take to task",
+            "sentence":"I had to admonish my kids because they were running around the store."
+        }},
+        {"adulate":{
+            "meaning":"flatter in an obsequious manner",
+            "sentence":"The adulation and applause from the crowd made the former president smile."
+        }},
+        {"adulterate":{
+            "meaning":"make impure by adding a foreign or inferior substance",
+            "sentence":"This group of people adulterated the fun for the rest of us."
+        }},
+        {"adumbrate":{
+            "meaning":"describe roughly or give the main points or summary of.",
+            "sentence":"The project's objectives were adumbrated in the report on page 2."
+        }},{"adverse":{
+            "meaning":"in an opposite direction",
+            "sentence":"The vaccine can cause an adverse reaction."
+        }},{"aesthete":{
+            "meaning":"one who professes great sensitivity to the beauty of art.",
+            "sentence":"and this is the condition of the decadent, of the aesthete, of the free-lover."
+        }},{"affable":{
+            "meaning":"diffusing warmth and friendliness",
+            "sentence":"I found her to be very affable."
+        }},{"affliction":{
+            "meaning":"a cause of great suffering and distress.",
+            "sentence":"they described the great aflkiction caused by the loss of their son."
+        }},
+        {"aggrandize":{
+            "meaning":"embellish, increase the scope, power, or importance of",
+            "sentence":"she has used that skill to protect her friend and aggradize herself."
+        }},
+        {"agitate":{
+            "meaning":"move or cause to move back and forth",
+            "sentence":"if I talk about the problem with him, it agitates him even more."
+        }},
+        {"agog":{
+            "meaning":"highly excited",
+            "sentence":"I am all agog to see him."
+        }},
+        {"alacrity":{
+            "meaning":"liveliness and eagerness",
+            "sentence":"She accepted the invitation with great alacrity."
+        }}
+
+
+    ]
+}
